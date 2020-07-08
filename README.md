@@ -1,3 +1,5 @@
+Made this README more awesome.
+
 Fast Downward is a domain-independent planning system.
 
 Copyright 2003-2019 Fast Downward contributors (see below).
